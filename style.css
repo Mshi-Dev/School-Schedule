@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    font-family: Poppins;
+    font-weight: 500;
+}
+
+#head {
+    background-color: aquamarine;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+    background-color: aquamarine;
+}
+
+.day {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.Home {
+    background-color: rgb(218, 165, 255);
+    font-weight: 500;
+}
+
+.subject {
+    font-weight: 500;
+    background-color:rgb(255, 218, 191);
+}
+
+.vacant {
+    font-weight: 500;
+    background-color:#ff8b87;
+}
